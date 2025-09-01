@@ -142,10 +142,10 @@ date = #(strftime "%Y-%m-%d" (localtime (current-time)))
     r8 cb <<cb cs hhp>> cb cb4 <<hhp8 tomh cb>> <<tomh cb>> |
     \bar ":|][|:"
     <<bd4 cb4>> <<cb8 hhp cs>> bd cb cb <<hhp tomh cb>> <<tomh cb>> |
-    r8 cb <<cb hhp>> <<toml cb>> <<toml cb4>> <<hhp8 tomh cb>> <<tomh cb>> |
+    r8 cb <<cb hhp>> <<toml cb>> <<toml4 cb4>> <<hhp8 tomh cb>> <<tomh cb>> |
     \bar ":|][|:"
     <<bd4 cb4>> <<cb8 hhp cs>> bd cb cb <<hhp cb>> <<tomh cb>> |
-    r8 cb <<cb hhp>> <<toml cb>> <<toml cb4>> <<hhp8 tomh cb>> <<tomh cb>> |
+    r8 cb <<cb hhp>> <<toml cb>> <<toml4 cb4>> <<hhp8 tomh cb>> <<tomh cb>> |
     \bar ":|][|:"
     <<bd4 cb4>> <<cb8 hhp cs>> bd cb cb <<hhp cb>> <<tomh cb>> |
     r8 cb <<cb hhp>> <<toml cb>> cb4 <<hhp8 tomh cb>> <<tomh cb>> |

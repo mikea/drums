@@ -25,16 +25,16 @@ drumPitchNames.cs = #'crossstick
 
 % https://github.com/lilypond/lilypond/blob/8b27342781c38475a70df6e324dcdc1e57757041/ly/drumpitch-init.ly#L228
 #(define mydrums `(
-    (bassdrum () #f -4)
+    (bassdrum () #f -3)
     (cowbell triangle #f 5)
-    (closedhihat cross stopped 3)
+    (closedhihat cross stopped 5)
     (crashcymbal xcircle #f 5)
     (crossstick cross #f 1)
     (hightom () #f 3)
-    (hihat cross #f 3)
+    (hihat cross #f 5)
     (lowtom () #f -1)
     (lowtomshell cross #f 5)
-    (openhihat cross open 3)
+    (openhihat cross open 5)
     (pedalhihat cross #f -5)
     (ridecymbal cross #f 5)
     (snare () #f 1)
