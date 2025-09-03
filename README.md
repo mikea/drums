@@ -5,4 +5,4 @@ See also [Timbales Notebooks](https://mikea.github.io/timbales/).
 - [Cumbia](pdf/cumbia.pdf)
 - [Son](pdf/son.pdf)
 
-https://github.com/mikea
+[@mikea](https://github.com/mikea)
