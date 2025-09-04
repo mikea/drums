@@ -1,7 +1,7 @@
 These are my personal notebooks for studying (latin) drums.
 See also [Timbales Notebooks](https://mikea.github.io/timbales/).
 
-Ping me if you are looking for beginner latin drummer in Bay Area.
+Ping me if you are looking for a beginner latin drummer in Bay Area.
 
 - [Cha-Cha-Cha](pdf/cha-cha-cha.pdf)
 - [Cumbia](pdf/cumbia.pdf)
