@@ -7,7 +7,7 @@ date = #(strftime "%Y-%m-%d" (localtime (current-time)))
 \header {
   title = "Son 2-3"
   instrument = "Drumkit"
-  tagline = \markup { "https://github.com/mikea/drums/ - " \date  }
+  tagline = \markup { "https://mikea.github.io/drums/ - " \date  }
 }
 
 \newDrumsStaff <<
@@ -201,3 +201,11 @@ date = #(strftime "%Y-%m-%d" (localtime (current-time)))
   }
 >>
 
+\newDrumsStaff <<
+  \newDrumVoiceOne \drummode {     
+    \bar "[|:"
+    \textMark "1" 
+    <<cymr8 bd>> sn <<cymr sn hhp>> <<cymr bd>> cymr sn <<cymr hhp>> <<cymr bd>> |
+    \bar ":|]"
+  }
+>>
