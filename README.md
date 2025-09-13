@@ -6,5 +6,6 @@ Ping me if you are looking for a beginner latin drummer in Bay Area.
 - [Cha-Cha-Cha](pdf/cha-cha-cha.pdf)
 - [Cumbia](pdf/cumbia.pdf)
 - [Son](pdf/son.pdf)
+- [Songo](pdf/songo.pdf)
 
 [@mikea](https://github.com/mikea)
