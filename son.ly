@@ -200,15 +200,3 @@ date = #(strftime "%Y-%m-%d" (localtime (current-time)))
     \bar ":|]"
   }
 >>
-
-\newDrumsStaff <<
-  \newDrumVoiceOne \drummode {     
-    \bar "[|:"
-    \textMark "1" 
-    <<cymr4 bd>> <<cymr8 sn^> hhp>> <<cymr bd>> cymr sn^> <<cymr hhp>> <<cymr bd>> |
-    \bar ":|][|:"
-    \textMark "2" 
-    <<cymr8 bd>> sn <<cymr sn hhp>> <<cymr bd>> cymr sn^> <<cymr hhp>> <<cymr bd>> |
-    \bar ":|]"
-  }
->>
