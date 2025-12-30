@@ -7,6 +7,7 @@ Ping me if you are looking for a beginner latin drummer in Bay Area.
 - [Cumbia](pdf/cumbia.pdf)
 - [Son](pdf/son.pdf)
 - [Songo](pdf/songo.pdf)
+- [Left Foot Clave](pdf/clave.pdf)
 
 [All Parts Combined](pdf/all.pdf)
 
