@@ -43,12 +43,16 @@ newDrumVoiceTwo = #(define-music-function
 
 drumPitchNames.sh = #'lowtomshell
 drumPitchNames.cs = #'crossstick
+drumPitchNames.cbn = #'cowbellneck
+drumPitchNames.cbm = #'cowbellmouth
 
 
 % https://github.com/lilypond/lilypond/blob/8b27342781c38475a70df6e324dcdc1e57757041/ly/drumpitch-init.ly#L228
 #(define mydrums `(
     (bassdrum () #f -3)
     (cowbell triangle #f 5)
+    (cowbellneck triangle stopped 5)
+    (cowbellmouth triangle open 5)
     (closedhihat cross stopped 5)
     (crashcymbal xcircle #f 5)
     (crashcymbala xcircle #f 6)
@@ -60,7 +64,7 @@ drumPitchNames.cs = #'crossstick
     (lowfloortom () #f -1)
     (openhihat cross open 5)
     (pedalhihat cross #f -5)
-    (ridecymbal cross #f 5)
+    (ridecymbal cross #f 4)
     (snare () #f 1)
 ))
 

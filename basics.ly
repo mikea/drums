@@ -23,15 +23,20 @@ date = #(strftime "%Y-%m-%d" (localtime (current-time)))
     \cadenzaOn
     hhp4_"hh foot" s
     hh_"hh" s
-    hho_"hh open" s
-    hhc_"hh closed" s
-    cymc_"crash" s
+    hho_"open" s
+    hhc_"closed" s
+    \cadenzaOff
+    s1 |
+    \cadenzaOn
+    cymc4_"crash" s
     cymca_"crash" s
     cymr_"ride" s
     \cadenzaOff
     s1 |
     \cadenzaOn
     cb4_"cowbell" s
+    cbn4_"neck" s
+    cbm4_"mouth" s
     \cadenzaOff
     s1 |
   }

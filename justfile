@@ -10,6 +10,7 @@ build:
         pdf/cha-cha-cha.pdf \
         pdf/cumbia.pdf \
         pdf/son.pdf \
+        pdf/clave.pdf \
         pdf/songo.pdf
 
 
